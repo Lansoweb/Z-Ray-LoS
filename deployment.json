@@ -1,0 +1,7 @@
+{
+  "name" : "los modules",
+  "display_name" : "LoS Modules",
+  "version" : "1.0.0",
+  "type": ["zray"],
+  "logo": "logo.png"
+}
