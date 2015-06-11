@@ -3,8 +3,8 @@
   "display_name" : "LoS Modules",
   "version" : "1.0.2",
   "type": ["zray"],
-  "logo": "los.png"
-  "eula": "LICENSE.txt",
+  "logo": "los.png",
+  "eula": "LICENSE",
   "readme": "README.txt",
   "dependencies": {
     "plugin": {
